@@ -1,0 +1,23 @@
+{
+  "name": "btoa-vp",
+  "homepage": "https://github.com/preneeth/btoa.js.git",
+  "description": "btoa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/preneeth/btoa.js.git"
+  },
+  "keywords": [
+    "btoa",
+    "browser"
+  ],
+  "author": "Victor Lundgren",
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "bin": {
+    "btoa": "bin/btoa.js"
+  },
+  "main": "index",
+  "license": "MIT",
+  "version": "1.2.2"
+}
