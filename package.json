@@ -1,10 +1,13 @@
 {
   "name": "btoa-vp",
-  "homepage": "https://github.com/preneeth/btoa.js.git",
+  "homepage": "https://github.com/preneeth/btoa-vp.git",
   "description": "btoa",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/preneeth/btoa.js.git"
+		"type": "git",
+		"url": "git://github.com/preneeth/btoa-vp.git"
+	},
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   },
   "keywords": [
     "btoa",
